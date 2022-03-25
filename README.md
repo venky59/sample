@@ -2,8 +2,6 @@
 
 Product comparison page build using **React** + **Redux** + **Bootstrap** + **SASS**
 
-![Screenshot](https://s8.postimg.cc/fdfsvumkl/Screen_Shot_2018-07-05_at_16.36.17.png)
-
 ## Node Version
 
 You can use [nvm](https://github.com/nvm-sh/nvm) to install the Node Version Manager.
