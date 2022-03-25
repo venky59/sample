@@ -22,9 +22,3 @@ Documentation how to _run_, _build_ and _test_ app
 
 Thank you for considering contributing!
 Please use GitHub issues and Pull Requests for Contributing.
-
-## License
-
-The MIT License (MIT). Please see License File for more information.
-
-- [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Rhymond/product-compare-react)
